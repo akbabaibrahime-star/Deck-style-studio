@@ -1,0 +1,7 @@
+{
+  "name": "Deck: The Style Studio",
+  "description": "A revolutionary fashion discovery platform. Explore curated styles, get AI-powered advice, and find your perfect fit in an interactive, visual-first feed.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
